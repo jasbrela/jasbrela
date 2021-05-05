@@ -5,6 +5,7 @@ I am Gabriela Milet, a aspiring game developer. My dream is to create games that
 - Unity
 - Game Development
 - AR
+- C#
 
 ### Links:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabrielamilet/)
@@ -13,5 +14,4 @@ I am Gabriela Milet, a aspiring game developer. My dream is to create games that
 <!-- [<img src="" />]() -->
 
 ### Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasbrela&count_private=true&show_icons=true&theme=dracula)
-<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jasbrela) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasbrela&count_private=true&show_icons=true&theme=dracula) ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jasbrela&theme=dracula)

@@ -13,4 +13,4 @@ I am Gabriela Milet, a aspiring game developer. My dream is to create games that
 
 ### Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasbrela&count_private=true&show_icons=true&theme=dracula)
-<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jasbrela&theme=dracula)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jasbrela&theme=dracula)

@@ -8,9 +8,9 @@ I am Gabriela Milet, a aspiring game developer. My dream is to create games that
 - C#
 
 ### Links:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabrielamilet/) <!-- [<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/jasbrela) --> [<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />](https://jasbrela.itch.io)
+[<img src="https://img.shields.io/badge/linkedin-%23282a36.svg?&style=for-the-badge&logo=linkedin&logoColor=dd6387" />](https://www.linkedin.com/in/gabrielamilet/) <!-- [<img src="https://img.shields.io/badge/GitLab-282a36?style=for-the-badge&logo=gitlab&logoColor=dd6387" />](https://gitlab.com/jasbrela) --> [<img src="https://img.shields.io/badge/Itch.io-282a36?style=for-the-badge&logo=itch.io&logoColor=dd6387" />](https://jasbrela.itch.io)
 <!-- [<img src="" />]() -->
 
 ### Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasbrela&count_private=true&show_icons=true&theme=onedark)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jasbrela&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasbrela&count_private=true&show_icons=true&theme=dracula&hide_border=true)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jasbrela&theme=dracula&hide_border=true)

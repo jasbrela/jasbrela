@@ -3,8 +3,9 @@ I am Gabriela Milet, a aspiring game developer. My dream is to create games that
 
 ### I’m currently learning:
 - Unreal Engine
-- Game Development
 - C++
+- Cocos Creator
+- Typescript
 
 ### Links:
 [<img src="https://img.shields.io/badge/linkedin-%23282a36.svg?&style=for-the-badge&logo=linkedin&logoColor=dd6387" />](https://www.linkedin.com/in/gabrielamilet/) [<img src="https://img.shields.io/badge/Itch.io-282a36?style=for-the-badge&logo=itchdotio&logoColor=dd6387" />](https://jasbrela.itch.io) [<img src="https://img.shields.io/badge/-Behance-282a36?style=for-the-badge&logo=behance&logoColor=dd6387" />](https://behance.net/gabrielamilet)
@@ -16,4 +17,4 @@ I am Gabriela Milet, a aspiring game developer. My dream is to create games that
 
 ### Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasbrela&count_private=true&show_icons=true&theme=dracula&hide_border=true)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jasbrela&hide_border=true&theme=dracula&langs_count=2)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jasbrela&hide_border=true&theme=dracula)

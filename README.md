@@ -16,5 +16,5 @@ I am Gabriela Milet, a aspiring game developer. My dream is to create games that
 ### Stats
 ![](https://komarev.com/ghpvc/?username=jasbrela&label=❤&color=c16e1c)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasbrela&count_private=true&show_icons=true&hide_border=true&bg_color=1D160E&text_color=FFFFFF&title_color=c16e1c&icon_color=c16e1c)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jasbrela&hide_border=true&bg_color=1D160E&text_color=FFFFFF&title_color=c16e1c)
+|<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jasbrela&count_private=true&show_icons=true&hide_border=true&bg_color=1D160E&text_color=FFFFFF&title_color=c16e1c&icon_color=c16e1c" /> | <img height="170em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jasbrela&hide_border=true&bg_color=1D160E&text_color=FFFFFF&title_color=c16e1c"/> | 
+| ------------- | ------------- |  

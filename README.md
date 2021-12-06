@@ -1,8 +1,4 @@
 ### Welcome! :wave:
-I am Gabriela Milet, a aspiring game developer. My dream is to create games that positively impact people's lives as much as they impacted mine.
-
-### I’m currently learning
-- Cocos Creator using Typescript
 
 ### Links
 [<img src="https://img.shields.io/badge/linkedin-%231c1c1c.svg?&style=for-the-badge&logo=linkedin&logoColor=ca6c75" />](https://www.linkedin.com/in/gabrielamilet/) [<img src="https://img.shields.io/badge/Itch.io-1c1c1c?style=for-the-badge&logo=itchdotio&logoColor=ca6c75" />](https://jasbrela.itch.io) [<img src="https://img.shields.io/badge/-Behance-1c1c1c?style=for-the-badge&logo=behance&logoColor=ca6c75" />](https://behance.net/gabrielamilet)

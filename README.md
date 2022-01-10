@@ -16,5 +16,5 @@
 ### Stats
 ![](https://komarev.com/ghpvc/?username=jasbrela&label=❤&color=00b58f)
 
-|<img height="200em" src="https://github-readme-stats.vercel.app/api?username=jasbrela&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&text_color=d6d6d6&title_color=00b58f&icon_color=00b58f" /> | <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jasbrela&hide_border=true&bg_color=0D1117&text_color=d6d6d6&title_color=00b58f"/> | 
+|<img height="200em" src="https://github-readme-stats.vercel.app/api?username=jasbrela&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&text_color=d6d6d6&title_color=00b58f&icon_color=00b58f" /> | <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jasbrela&hide_border=true&bg_color=0D1117&text_color=d6d6d6&title_color=00b58f&langs_count=2"/> | 
 | ------------- | ------------- |  

@@ -1,9 +1,5 @@
 ### Welcome! :wave:
 
-### I'm currently learning
-- 3D Game Development in Unity
-- Photon & Mirror
-
 ### Links
 [<img src="https://img.shields.io/badge/linkedin-%230D1117.svg?&style=for-the-badge&logo=linkedin&logoColor=00b58f" />](https://www.linkedin.com/in/gabrielamilet/) [<img src="https://img.shields.io/badge/Itch.io-0D1117?style=for-the-badge&logo=itchdotio&logoColor=00b58f" />](https://jasbrela.itch.io) [<img src="https://img.shields.io/badge/-Behance-0D1117?style=for-the-badge&logo=behance&logoColor=00b58f" />](https://behance.net/gabrielamilet)
 <!-- [<img src="" />]() -->

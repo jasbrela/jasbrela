@@ -1,7 +1,7 @@
 ### Welcome! :wave:
 
 ### Links
-[<img src="https://img.shields.io/badge/linkedin-%230D1117.svg?&style=for-the-badge&logo=linkedin&logoColor=c10707" />](https://www.linkedin.com/in/gabrielamilet/) [<img src="https://img.shields.io/badge/Itch.io-0D1117?style=for-the-badge&logo=itchdotio&logoColor=c10707" />](https://jasbrela.itch.io) [<img src="https://img.shields.io/badge/-Behance-0D1117?style=for-the-badge&logo=behance&logoColor=c10707" />](https://behance.net/gabrielamilet)
+[<img src="https://img.shields.io/badge/linkedin-%230D1117.svg?&style=for-the-badge&logo=linkedin&logoColor=c10707" />](https://www.linkedin.com/in/gabrielamilet/) [<img src="https://img.shields.io/badge/Itch.io-0D1117?style=for-the-badge&logo=itchdotio&logoColor=c10707" />](https://jasbrela.itch.io)
 <!-- [<img src="" />]() -->
 
 ### Languages and Tools

@@ -10,10 +10,10 @@
       <br /><br /><br />
     </td>
     <td>
+      <br/>
       <div align="center">
-        <br/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasbrela&count_private=true&show_icons=true&hide_border=false&border_color=3D444D&bg_color=212830&text_color=ffffff&title_color=56D364&icon_color=56D364" />
-        <img height="130em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jasbrela&hide_border=false&border_color=3D444D&bg_color=212830&text_color=ffffff&title_color=56D364&hide=yaml,properties,textmate,config,sql,IDEA_MODULE,TSConfig,Assembly,Bash,Objective-c,Gradle,Groovy,CMake,Text,GitIgnore%20File,Solution%20File,Git%20Config,Markdown,Vcxproj,Other&range=last_7_days"/>
+        <img width="400em" src="https://github-readme-stats.vercel.app/api?username=jasbrela&count_private=true&show_icons=true&hide_border=false&border_color=3D444D&bg_color=212830&text_color=ffffff&title_color=56D364&icon_color=56D364" />
+        <img width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jasbrela&hide_border=false&border_color=3D444D&bg_color=212830&text_color=ffffff&title_color=56D364&hide=yaml,properties,textmate,config,sql,IDEA_MODULE,TSConfig,Assembly,Bash,Objective-c,Gradle,Groovy,CMake,Text,GitIgnore%20File,Solution%20File,Git%20Config,Markdown,Vcxproj,Other&range=last_7_days"/>
         <br/><br/>
           <img src="https://komarev.com/ghpvc/?username=jasbrela&label=❤&color=56D364" /> <img src="https://wakatime.com/badge/user/9400f2ac-e442-4aad-ac8a-ae5f26918eb3.svg" />
         <br/>

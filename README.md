@@ -19,8 +19,8 @@
     <td>
       <br/>
       <div align="center">
-        <img width="400em" src="https://github-readme-stats.vercel.app/api?username=jasbrela&count_private=true&show_icons=true&hide_border=false&border_color=3D444D&bg_color=212830&text_color=ffffff&title_color=4493F8&icon_color=4493F8" />
-        <img width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jasbrela&hide_border=false&border_color=3D444D&bg_color=212830&text_color=ffffff&title_color=4493F8&hide=yaml,properties,textmate,config,sql,IDEA_MODULE,TSConfig,Assembly,Bash,Objective-c,Gradle,Groovy,CMake,TOML,JSON,C/C,Text,GitIgnore%20File,Java%20Properties,Solution%20File,Git%20Config,Markdown,Vcxproj,Other,MsBuild%20targets%20file,uproject,EditorConfig,Project%20file%20properties&range=last_7_days"/>
+        <img width="400em" src="https://github-readme-stats.vercel.app/api?username=jasbrela&count_private=true&show_icons=true&hide_border=true&border_color=3D444D&bg_color=212830&text_color=ffffff&title_color=4493F8&icon_color=4493F8" />
+        <img width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jasbrela&hide_border=true&border_color=3D444D&bg_color=212830&text_color=ffffff&title_color=4493F8&hide=yaml,properties,textmate,config,sql,IDEA_MODULE,TSConfig,Assembly,Bash,Objective-c,Gradle,Groovy,CMake,TOML,JSON,C/C,Text,GitIgnore%20File,Java%20Properties,Solution%20File,Git%20Config,Markdown,Vcxproj,Other,MsBuild%20targets%20file,uproject,EditorConfig,Project%20file%20properties&range=last_7_days"/>
         <br/>
       </div>
     </td>

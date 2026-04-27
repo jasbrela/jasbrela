@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h2>Welcome! <img height=48px width=48px src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZ2ZTYyZ2llYmZoYmJjaXljNDExOGl5eGo2a2p4cWt3OXBxaTNzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ggEWKEpA41DW2P4s5w/giphy.gif" /></h2>
-      <img src="https://komarev.com/ghpvc/?username=jasbrela&label=⠀❤⠀&color=9fc242" /> <img src="https://wakatime.com/badge/user/9400f2ac-e442-4aad-ac8a-ae5f26918eb3.svg" />
+      <img src="https://komarev.com/ghpvc/?username=jasbrela&label=⠀❤⠀&color=9fc242" /> <img src="https://wakatime.com/badge/user/9400f2ac-e442-4aad-ac8a-ae5f26918eb3.svg?color=9fc242" />
       <br/>
       <h3>Technologies</h3>
       <img src="https://img.shields.io/badge/Unity-212830?style=for-the-badge&logo=unity&logoColor=b9f70b&color=212830">
